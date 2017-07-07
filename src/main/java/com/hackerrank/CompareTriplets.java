@@ -1,11 +1,7 @@
 package com.hackerrank;
 
-import java.util.List;
 import java.util.Scanner;
 
-/**
- * https://www.hackerrank.com/challenges/compare-the-triplets
- */
 public class CompareTriplets {
 
     public static void main(String[] args) {
@@ -30,5 +26,4 @@ public class CompareTriplets {
             a[i] = in.nextInt();
         }
     }
-
 }
