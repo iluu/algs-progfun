@@ -19,6 +19,7 @@ Solutions to coding challenges from [Code Fights](www.codefights.com), [Codin Ga
 
 |   # | Problem                 | Solutions                                   | Difficulty | Points |
 |----:|-------------------------|:-------------------------------------------:|:----------:|-------:|
+|     | **Warmup**              |                                             |            |        |
 |  1. | [Solve Me First]        | [Kotlin][Solve Me First Kotlin]             | Easy       |      1 |
 |  2. | [Simple Array Sum]      | [Java][SAS Java] [Scala][SAS Scala]         | Easy       |     10 |
 |  3. | [Compare The Triplets]  | [Java][CTT Java]                            | Easy       |     10 |
@@ -29,9 +30,23 @@ Solutions to coding challenges from [Code Fights](www.codefights.com), [Codin Ga
 |  8. | [Mini-Max Sum]          | [Haskell][MMS Haskell] [Kotlin][MMS Kotlin] | Easy       |     10 |
 |  9. | [Birthday Cake Candles] | [Java][BCC Java]                            | Easy       |     10 |
 | 10. | [Time Conversion]       | [Java][TC Java]                             | Easy       |     15 |
+|     | **Implementation**      |                                             |            |        |
+| 11. | [Grading Students]      | [Kotlin][GS Kotlin]                         | Easy       |     10 |
+| 12. | [Apple and Orange]      | [Kotlin][AAO Kotlin]                        | Easy       |     10 |
+| 13. | [Kangaroo]              | [Kotlin][Kangaroo Kotlin]                   | Easy       |     10 |
+| 14. | [Between Two Sets]      | [Kotlin][BTS Kotlin]                        | Easy       |     10 |
+|     |                         |                                             |            |        |
 
 
 <!-- Links -->
+[Between Two Sets]:https://www.hackerrank.com/challenges/between-two-sets
+[BTS Kotlin]:https://github.com/iluu/algs-progfun/blob/master/src/main/kotlin/com/hackerrank/BetweenTwoSets.kt
+[Kangaroo]:https://www.hackerrank.com/challenges/kangaroo
+[Kangaroo Kotlin]:https://github.com/iluu/algs-progfun/blob/master/src/main/kotlin/com/hackerrank/Kangaroo.kt
+[Apple and Orange]:https://www.hackerrank.com/challenges/apple-and-orange
+[AAO Kotlin]:https://github.com/iluu/algs-progfun/blob/master/src/main/kotlin/com/hackerrank/AppleAndOrange.kt
+[Grading Students]:https://www.hackerrank.com/challenges/grading
+[GS Kotlin]:https://github.com/iluu/algs-progfun/blob/master/src/main/kotlin/com/hackerrank/GradingStudents.kt
 [Time Conversion]:https://www.hackerrank.com/challenges/time-conversion
 [TC Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/TimeConversion.java
 [Birthday Cake Candles]:https://www.hackerrank.com/challenges/birthday-cake-candles
