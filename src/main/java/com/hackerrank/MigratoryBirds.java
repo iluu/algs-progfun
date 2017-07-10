@@ -10,7 +10,7 @@ public class MigratoryBirds {
         int[] types = new int[5];
         for (int i = 0; i < n; i++) {
             int type = in.nextInt();
-            types[type-1]++;
+            types[type - 1]++;
         }
 
         int max = 0;
@@ -18,7 +18,7 @@ public class MigratoryBirds {
         for (int i = 0; i < 5; i++) {
             if (types[i] > max) {
                 max = types[i];
-                answer = i+1;
+                answer = i + 1;
             }
         }
         System.out.println(answer);
