@@ -17,28 +17,62 @@ Solutions to coding challenges from [Code Fights](www.codefights.com), [Codin Ga
 
 ### Algorithms
 
-|   # | Problem                 | Solutions                                   | Difficulty | Points |
-|----:|-------------------------|:-------------------------------------------:|:----------:|-------:|
-|     | **Warmup**              |                                             |            |        |
-|  1. | [Solve Me First]        | [Kotlin][Solve Me First Kotlin]             | Easy       |      1 |
-|  2. | [Simple Array Sum]      | [Java][SAS Java] [Scala][SAS Scala]         | Easy       |     10 |
-|  3. | [Compare The Triplets]  | [Java][CTT Java]                            | Easy       |     10 |
-|  4. | [A Very Big Sum]        | [Java][AVBS Java]                           | Easy       |     10 |
-|  5. | [Diagonal Difference]   | [Java][DD Java]                             | Easy       |     10 |
-|  6. | [Plus Minus]            | [Java][PM Java]                             | Easy       |     10 |
-|  7. | [Staircase]             | [Java][Staircase Java]                      | Easy       |     10 |
-|  8. | [Mini-Max Sum]          | [Haskell][MMS Haskell] [Kotlin][MMS Kotlin] | Easy       |     10 |
-|  9. | [Birthday Cake Candles] | [Java][BCC Java]                            | Easy       |     10 |
-| 10. | [Time Conversion]       | [Java][TC Java]                             | Easy       |     15 |
-|     | **Implementation**      |                                             |            |        |
-| 11. | [Grading Students]      | [Kotlin][GS Kotlin]                         | Easy       |     10 |
-| 12. | [Apple and Orange]      | [Kotlin][AAO Kotlin]                        | Easy       |     10 |
-| 13. | [Kangaroo]              | [Kotlin][Kangaroo Kotlin]                   | Easy       |     10 |
-| 14. | [Between Two Sets]      | [Kotlin][BTS Kotlin]                        | Easy       |     10 |
-|     |                         |                                             |            |        |
+|   # | Problem                    | Solutions                                   | Difficulty | Points |
+|-----|----------------------------|---------------------------------------------|------------|--------|
+|     | **Warmup**                 |                                             |            |        |
+|  1. | [Solve Me First]           | [Kotlin][Solve Me First Kotlin]             | Easy       |      1 |
+|  2. | [Simple Array Sum]         | [Java][SAS Java] [Scala][SAS Scala]         | Easy       |     10 |
+|  3. | [Compare The Triplets]     | [Java][CTT Java]                            | Easy       |     10 |
+|  4. | [A Very Big Sum]           | [Java][AVBS Java]                           | Easy       |     10 |
+|  5. | [Diagonal Difference]      | [Java][DD Java]                             | Easy       |     10 |
+|  6. | [Plus Minus]               | [Java][PM Java]                             | Easy       |     10 |
+|  7. | [Staircase]                | [Java][Staircase Java]                      | Easy       |     10 |
+|  8. | [Mini-Max Sum]             | [Haskell][MMS Haskell] [Kotlin][MMS Kotlin] | Easy       |     10 |
+|  9. | [Birthday Cake Candles]    | [Java][BCC Java]                            | Easy       |     10 |
+| 10. | [Time Conversion]          | [Java][TC Java]                             | Easy       |     15 |
+|     | **Implementation**         |                                             |            |        |
+| 11. | [Grading Students]         | [Kotlin][GS Kotlin]                         | Easy       |     10 |
+| 12. | [Apple and Orange]         | [Kotlin][AAO Kotlin]                        | Easy       |     10 |
+| 13. | [Kangaroo]                 | [Kotlin][Kangaroo Kotlin]                   | Easy       |     10 |
+| 14. | [Between Two Sets]         | [Kotlin][BTS Kotlin]                        | Easy       |     10 |
+| 15. | [Breaking the Records]     | [Java][BTR Java]                            | Easy       |     10 |
+| 16. | [Birthday Chocolate]       | [Kotlin][BC Kotlin]                         | Easy       |     10 |
+| 17. | [Migratory Birds]          | [Java][MB Java]                             | Easy       |     10 |
+| 18. | [Stock Merchant]           | [Java][SM Java]                             | Easy       |     10 |
+| 19. | [Counting Valleys]         | [Java][CV Java]                             | Easy       |     15 |
+| 20. | [Electronic Shop]          | [Java][ES Java]                             | Easy       |     15 |
+| 21. | [Cat and A Mouse]          | [Java][CAM Java]                            | Easy       |     15 |
+| 22. | [Forming a Magic Square]   | [Kotlin][FAMS Kotlin]                       | Easy       |     20 |
+| 23. | [Picking Numbers]          | [Kotlin][PN Kotlin]                         | Easy       |     20 |
+| 24. | [Climbing the Leaderboard] | [Java][CTL Java] [Kotlin][CTL Kotlin]       | Easy       |     20 |
+| 25. | [The Hurdle Race]          | [Java][THR Java]                            | Easy       |     15 |
+|     |                            |                                             |            |        |
 
 
 <!-- Links -->
+[The Hurdle Race]:https://www.hackerrank.com/challenges/the-hurdle-race
+[THR Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/TheHurdleRace.java
+[Climbing the Leaderboard]:https://www.hackerrank.com/challenges/climbing-the-leaderboard
+[CTL Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/ClimbingTheLeaderboard.java
+[CTL Kotlin]:https://github.com/iluu/algs-progfun/blob/master/src/main/kotlin/com/hackerrank/ClimbingTheLeaderboard.kt
+[Picking Numbers]:https://www.hackerrank.com/challenges/picking-numbers
+[PN Kotlin]:https://github.com/iluu/algs-progfun/blob/master/src/main/kotlin/com/hackerrank/PickingNumbers.kt
+[Forming a Magic Square]:https://www.hackerrank.com/challenges/magic-square-forming
+[FAMS Kotlin]:https://github.com/iluu/algs-progfun/blob/master/src/main/kotlin/com/hackerrank/FormingAMagicSquare.kt
+[Cat and A Mouse]:https://www.hackerrank.com/challenges/cats-and-a-mouse
+[CAM Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/CatAndAMouse.java
+[Electronic Shop]:https://www.hackerrank.com/challenges/electronics-shop
+[ES Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/ElectronicsShop.java
+[Counting Valleys]:https://www.hackerrank.com/challenges/counting-valleys
+[CV Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/CountingValleys.java
+[Stock Merchant]:https://www.hackerrank.com/challenges/sock-merchant
+[SM Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/StockMerchant.java
+[Migratory Birds]:https://www.hackerrank.com/challenges/migratory-birds
+[MB Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/MigratoryBirds.java
+[Birthday Chocolate]:https://www.hackerrank.com/challenges/the-birthday-bar
+[BC Kotlin]:https://github.com/iluu/algs-progfun/blob/master/src/main/kotlin/com/hackerrank/BirthdayChocolate.kt
+[Breaking the Records]:https://www.hackerrank.com/challenges/breaking-best-and-worst-records
+[BTR Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/BreakingTheRecords.java
 [Between Two Sets]:https://www.hackerrank.com/challenges/between-two-sets
 [BTS Kotlin]:https://github.com/iluu/algs-progfun/blob/master/src/main/kotlin/com/hackerrank/BetweenTwoSets.kt
 [Kangaroo]:https://www.hackerrank.com/challenges/kangaroo
