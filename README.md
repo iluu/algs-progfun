@@ -46,10 +46,13 @@ Solutions to coding challenges from [Code Fights](www.codefights.com), [Codin Ga
 | 23. | [Picking Numbers]          | [Kotlin][PN Kotlin]                         | Easy       |     20 |
 | 24. | [Climbing the Leaderboard] | [Java][CTL Java] [Kotlin][CTL Kotlin]       | Easy       |     20 |
 | 25. | [The Hurdle Race]          | [Java][THR Java]                            | Easy       |     15 |
+| 26. | [Designer PDF Viewer]      | [Kotlin][DPDFV Kotlin]                      | Easy       |     20 |
 |     |                            |                                             |            |        |
 
 
 <!-- Links -->
+[Designer PDF Viewer]:https://www.hackerrank.com/challenges/designer-pdf-viewer
+[DPDFV Kotlin]:https://github.com/iluu/algs-progfun/blob/master/src/main/kotlin/com/hackerrank/DesignerPDFViewer.kt
 [The Hurdle Race]:https://www.hackerrank.com/challenges/the-hurdle-race
 [THR Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/TheHurdleRace.java
 [Climbing the Leaderboard]:https://www.hackerrank.com/challenges/climbing-the-leaderboard
