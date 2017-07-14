@@ -1,28 +1,37 @@
 package com.hackerrank;
 
-import java.util.*;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.util.Scanner;
 
 public class CircularArrayRotation {
 
-    public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
+    private final static boolean READ_FILE = true;
+
+    public static void main(String[] args) throws FileNotFoundException {
+        Scanner in = getScanner();
         int n = in.nextInt();
         int k = in.nextInt();
         int q = in.nextInt();
         int[] a = new int[n];
-        for(int a_i=0; a_i < n; a_i++){
+        for (int a_i = 0; a_i < n; a_i++) {
             a[a_i] = in.nextInt();
         }
-        for(int a0 = 0; a0 < q; a0++){
+        for (int a0 = 0; a0 < q; a0++) {
             int m = in.nextInt();
             System.out.println(getValueAfterRotation(a, k, m));
         }
     }
 
-    static int getValueAfterRotation(int[] arr, int rot, int idx) {
-        if(idx - rot >= 0){
-            return arr[idx - rot];
+    private static Scanner getScanner() throws FileNotFoundException {
+        if (READ_FILE) {
+            return new Scanner(new FileInputStream(new File("inputs/circular-array-rotation.txt")));
         }
-        return arr[arr.length + (idx - rot)];
+        return new Scanner(System.in);
+    }
+
+    static int getValueAfterRotation(int[] arr, int rot, int idx) {
+        return arr[(arr.length + (idx - rot % arr.length)) % arr.length];
     }
 }

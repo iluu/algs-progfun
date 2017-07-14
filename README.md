@@ -52,13 +52,16 @@ Solutions to coding challenges from [Code Fights](www.codefights.com), [Codin Ga
 | 29. | [Beautiful Days at the Movies] | [Java][BDATM Java]                          | Easy       |     15 |
 | 30. | [Viral Advertising]            | [Java][VA Java]                             | Easy       |     15 |
 | 31. | [Save the Prisoner!]           | [Kotlin][STP Kotlin]                        | Easy       |     15 |
-| 32. | [Sequence Equation]            | [Kotlin][SE Kotlin]                         | Easy       |     20 |
+| 32. | [Circular Array Rotation]      | [Java][CAR Java]                            | Easy       |     20 |
+| 33. | [Sequence Equation]            | [Kotlin][SE Kotlin]                         | Easy       |     20 |
 |     |                                |                                             |            |        |
 
 
 <!-- Links -->
 [Sequence Equation]:https://www.hackerrank.com/challenges/permutation-equation
 [SE Kotlin]:https://github.com/iluu/algs-progfun/blob/master/src/main/kotlin/com/hackerrank/SequenceEquation.kt
+[Circular Array Rotation]:https://www.hackerrank.com/challenges/circular-array-rotation
+[CAR Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/CircularArrayRotation.java
 [Save the Prisoner!]:https://www.hackerrank.com/challenges/save-the-prisoner
 [STP Kotlin]:https://github.com/iluu/algs-progfun/blob/master/src/main/kotlin/com/hackerrank/SaveThePrisoner.kt
 [Viral Advertising]:https://www.hackerrank.com/challenges/strange-advertising

@@ -32,5 +32,4 @@ public class CircularArrayRotationTest {
 
         assertThat(value, is(equalTo(3)));
     }
-
 }
