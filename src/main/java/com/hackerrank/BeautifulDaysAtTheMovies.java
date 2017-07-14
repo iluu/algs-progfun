@@ -13,7 +13,7 @@ public class BeautifulDaysAtTheMovies {
         System.out.println(countBeautiful(i, j, k));
     }
 
-    static int countBeautiful(int i, int j, int k){
+    static int countBeautiful(int i, int j, int k) {
         int result = 0;
         for (int l = i; l <= j; l++) {
             if (isBeautiful(l, k)) {
@@ -37,5 +37,4 @@ public class BeautifulDaysAtTheMovies {
         }
         return Integer.valueOf(result.toString());
     }
-
 }

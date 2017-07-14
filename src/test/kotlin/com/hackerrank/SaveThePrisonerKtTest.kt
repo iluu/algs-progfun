@@ -20,4 +20,3 @@ class SaveThePrisonerKtTest {
         assertEquals(5, poisonedSweet(5, 4, 2))
     }
 }
-
