@@ -17,47 +17,59 @@ Solutions to coding challenges from [Code Fights](www.codefights.com), [Codin Ga
 
 ### Algorithms
 
-|   # | Problem                        | Solutions                                   | Difficulty | Points |
-|-----|--------------------------------|---------------------------------------------|------------|--------|
-|     | **Warmup**                     |                                             |            |        |
-|  1. | [Solve Me First]               | [Kotlin][Solve Me First Kotlin]             | Easy       |      1 |
-|  2. | [Simple Array Sum]             | [Java][SAS Java] [Scala][SAS Scala]         | Easy       |     10 |
-|  3. | [Compare The Triplets]         | [Java][CTT Java]                            | Easy       |     10 |
-|  4. | [A Very Big Sum]               | [Java][AVBS Java]                           | Easy       |     10 |
-|  5. | [Diagonal Difference]          | [Java][DD Java]                             | Easy       |     10 |
-|  6. | [Plus Minus]                   | [Java][PM Java]                             | Easy       |     10 |
-|  7. | [Staircase]                    | [Java][Staircase Java]                      | Easy       |     10 |
-|  8. | [Mini-Max Sum]                 | [Haskell][MMS Haskell] [Kotlin][MMS Kotlin] | Easy       |     10 |
-|  9. | [Birthday Cake Candles]        | [Java][BCC Java]                            | Easy       |     10 |
-| 10. | [Time Conversion]              | [Java][TC Java]                             | Easy       |     15 |
-|     | **Implementation**             |                                             |            |        |
-| 11. | [Grading Students]             | [Kotlin][GS Kotlin]                         | Easy       |     10 |
-| 12. | [Apple and Orange]             | [Kotlin][AAO Kotlin]                        | Easy       |     10 |
-| 13. | [Kangaroo]                     | [Kotlin][Kangaroo Kotlin]                   | Easy       |     10 |
-| 14. | [Between Two Sets]             | [Kotlin][BTS Kotlin]                        | Easy       |     10 |
-| 15. | [Breaking the Records]         | [Java][BTR Java]                            | Easy       |     10 |
-| 16. | [Birthday Chocolate]           | [Kotlin][BC Kotlin]                         | Easy       |     10 |
-| 17. | [Migratory Birds]              | [Java][MB Java]                             | Easy       |     10 |
-| 18. | [Stock Merchant]               | [Java][SM Java]                             | Easy       |     10 |
-| 19. | [Counting Valleys]             | [Java][CV Java]                             | Easy       |     15 |
-| 20. | [Electronic Shop]              | [Java][ES Java]                             | Easy       |     15 |
-| 21. | [Cat and A Mouse]              | [Java][CAM Java]                            | Easy       |     15 |
-| 22. | [Forming a Magic Square]       | [Kotlin][FAMS Kotlin]                       | Easy       |     20 |
-| 23. | [Picking Numbers]              | [Kotlin][PN Kotlin]                         | Easy       |     20 |
-| 24. | [Climbing the Leaderboard]     | [Java][CTL Java] [Kotlin][CTL Kotlin]       | Easy       |     20 |
-| 25. | [The Hurdle Race]              | [Java][THR Java]                            | Easy       |     15 |
-| 26. | [Designer PDF Viewer]          | [Kotlin][DPDFV Kotlin]                      | Easy       |     20 |
-| 27. | [Utopian Tree]                 | [Java][UT Java]                             | Easy       |     20 |
-| 28. | [Angry Professor]              | [Java][AP Java]                             | Easy       |     20 |
-| 29. | [Beautiful Days at the Movies] | [Java][BDATM Java]                          | Easy       |     15 |
-| 30. | [Viral Advertising]            | [Java][VA Java]                             | Easy       |     15 |
-| 31. | [Save the Prisoner!]           | [Kotlin][STP Kotlin]                        | Easy       |     15 |
-| 32. | [Circular Array Rotation]      | [Java][CAR Java]                            | Easy       |     20 |
-| 33. | [Sequence Equation]            | [Kotlin][SE Kotlin]                         | Easy       |     20 |
-|     |                                |                                             |            |        |
+|   # | Problem                            | Solutions                                   | Difficulty | Points |
+|-----|------------------------------------|---------------------------------------------|------------|--------|
+|     | **Warmup**                         |                                             |            |        |
+|  1. | [Solve Me First]                   | [Kotlin][Solve Me First Kotlin]             | Easy       |      1 |
+|  2. | [Simple Array Sum]                 | [Java][SAS Java] [Scala][SAS Scala]         | Easy       |     10 |
+|  3. | [Compare The Triplets]             | [Java][CTT Java]                            | Easy       |     10 |
+|  4. | [A Very Big Sum]                   | [Java][AVBS Java]                           | Easy       |     10 |
+|  5. | [Diagonal Difference]              | [Java][DD Java]                             | Easy       |     10 |
+|  6. | [Plus Minus]                       | [Java][PM Java]                             | Easy       |     10 |
+|  7. | [Staircase]                        | [Java][Staircase Java]                      | Easy       |     10 |
+|  8. | [Mini-Max Sum]                     | [Haskell][MMS Haskell] [Kotlin][MMS Kotlin] | Easy       |     10 |
+|  9. | [Birthday Cake Candles]            | [Java][BCC Java]                            | Easy       |     10 |
+| 10. | [Time Conversion]                  | [Java][TC Java]                             | Easy       |     15 |
+|     | **Implementation**                 |                                             |            |        |
+| 11. | [Grading Students]                 | [Kotlin][GS Kotlin]                         | Easy       |     10 |
+| 12. | [Apple and Orange]                 | [Kotlin][AAO Kotlin]                        | Easy       |     10 |
+| 13. | [Kangaroo]                         | [Kotlin][Kangaroo Kotlin]                   | Easy       |     10 |
+| 14. | [Between Two Sets]                 | [Kotlin][BTS Kotlin]                        | Easy       |     10 |
+| 15. | [Breaking the Records]             | [Java][BTR Java]                            | Easy       |     10 |
+| 16. | [Birthday Chocolate]               | [Kotlin][BC Kotlin]                         | Easy       |     10 |
+| 17. | [Migratory Birds]                  | [Java][MB Java]                             | Easy       |     10 |
+| 18. | [Stock Merchant]                   | [Java][SM Java]                             | Easy       |     10 |
+| 19. | [Counting Valleys]                 | [Java][CV Java]                             | Easy       |     15 |
+| 20. | [Electronic Shop]                  | [Java][ES Java]                             | Easy       |     15 |
+| 21. | [Cat and A Mouse]                  | [Java][CAM Java]                            | Easy       |     15 |
+| 22. | [Forming a Magic Square]           | [Kotlin][FAMS Kotlin]                       | Easy       |     20 |
+| 23. | [Picking Numbers]                  | [Kotlin][PN Kotlin]                         | Easy       |     20 |
+| 24. | [Climbing the Leaderboard]         | [Java][CTL Java] [Kotlin][CTL Kotlin]       | Easy       |     20 |
+| 25. | [The Hurdle Race]                  | [Java][THR Java]                            | Easy       |     15 |
+| 26. | [Designer PDF Viewer]              | [Kotlin][DPDFV Kotlin]                      | Easy       |     20 |
+| 27. | [Utopian Tree]                     | [Java][UT Java]                             | Easy       |     20 |
+| 28. | [Angry Professor]                  | [Java][AP Java]                             | Easy       |     20 |
+| 29. | [Beautiful Days at the Movies]     | [Java][BDATM Java]                          | Easy       |     15 |
+| 30. | [Viral Advertising]                | [Java][VA Java]                             | Easy       |     15 |
+| 31. | [Save the Prisoner!]               | [Kotlin][STP Kotlin]                        | Easy       |     15 |
+| 32. | [Circular Array Rotation]          | [Java][CAR Java]                            | Easy       |     20 |
+| 33. | [Sequence Equation]                | [Kotlin][SE Kotlin]                         | Easy       |     20 |
+| 34. | [Jumping on the Clouds: Revisited] | [Java][JOTCR Java]                          | Easy       |     15 |
+| 35. | [Find Digits]                      | [Java][FD Java]                             | Easy       |     25 |
+| 36. | [Extra Long Factorials]            | [Java][ELF Java]                            | Medium     |     20 |
+| 37. | [Append and Delete]                | [Kotlin][AAD Kotlin]                        | Easy       |     20 |
+|     |                                    |                                             |            |        |
 
 
 <!-- Links -->
+[Append and Delete]:https://www.hackerrank.com/challenges/append-and-delete
+[AAD Kotlin]:https://github.com/iluu/algs-progfun/blob/master/src/main/kotlin/com/hackerrank/AppendAndDelete.kt
+[Extra Long Factorials]:https://www.hackerrank.com/challenges/extra-long-factorials
+[ELF Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/ExtraLongFactorials.java
+[Find Digits]:https://www.hackerrank.com/challenges/find-digits
+[FD Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/FindDigits.java
+[Jumping on the Clouds: Revisited]:https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited
+[JOTCR Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/JumpingOnTheCloudsRevisited.java
 [Sequence Equation]:https://www.hackerrank.com/challenges/permutation-equation
 [SE Kotlin]:https://github.com/iluu/algs-progfun/blob/master/src/main/kotlin/com/hackerrank/SequenceEquation.kt
 [Circular Array Rotation]:https://www.hackerrank.com/challenges/circular-array-rotation
