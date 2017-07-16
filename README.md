@@ -58,10 +58,16 @@ Solutions to coding challenges from [Code Fights](www.codefights.com), [Codin Ga
 | 35. | [Find Digits]                      | [Java][FD Java]                             | Easy       |     25 |
 | 36. | [Extra Long Factorials]            | [Java][ELF Java]                            | Medium     |     20 |
 | 37. | [Append and Delete]                | [Kotlin][AAD Kotlin]                        | Easy       |     20 |
+| 38. | [Sherlock and Squares]             | [Kotlin][ShAS Kotlin]                       | Easy       |     20 |
+| 39. | [Library Fine]                     | [Java][LF Java]                             | Easy       |     15 |
 |     |                                    |                                             |            |        |
 
 
 <!-- Links -->
+[Library Fine]:https://www.hackerrank.com/challenges/library-fine
+[LF Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/LibraryFine.java
+[Sherlock and Squares]:https://www.hackerrank.com/challenges/sherlock-and-squares
+[ShAS Kotlin]:https://github.com/iluu/algs-progfun/blob/master/src/main/kotlin/com/hackerrank/SherlockAndSquares.kt
 [Append and Delete]:https://www.hackerrank.com/challenges/append-and-delete
 [AAD Kotlin]:https://github.com/iluu/algs-progfun/blob/master/src/main/kotlin/com/hackerrank/AppendAndDelete.kt
 [Extra Long Factorials]:https://www.hackerrank.com/challenges/extra-long-factorials

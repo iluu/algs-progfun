@@ -23,6 +23,4 @@ public class LibraryFineTest {
         assertThat(calculateFine(6, 6, 2015, 6, 6, 2015), equalTo(0));
     }
 
-
-
 }
