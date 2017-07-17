@@ -60,10 +60,13 @@ Solutions to coding challenges from [Code Fights](www.codefights.com), [Codin Ga
 | 37. | [Append and Delete]                | [Kotlin][AAD Kotlin]                        | Easy       |     20 |
 | 38. | [Sherlock and Squares]             | [Kotlin][ShAS Kotlin]                       | Easy       |     20 |
 | 39. | [Library Fine]                     | [Java][LF Java]                             | Easy       |     15 |
+| 40. | [Cut the Sticks]                   | [Java][CTS Java]                            | Easy       |     25 |
 |     |                                    |                                             |            |        |
 
 
 <!-- Links -->
+[Cut the Sticks]:https://www.hackerrank.com/challenges/cut-the-sticks
+[CTS Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/CutTheSticks.java
 [Library Fine]:https://www.hackerrank.com/challenges/library-fine
 [LF Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/LibraryFine.java
 [Sherlock and Squares]:https://www.hackerrank.com/challenges/sherlock-and-squares
