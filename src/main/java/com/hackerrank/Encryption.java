@@ -16,7 +16,7 @@ public class Encryption {
         double len = s.length();
         int row = (int) Math.floor(Math.sqrt(len));
         int col = (int) Math.ceil(Math.sqrt(len));
-        if (row * col < s.length()){
+        if (row * col < s.length()) {
             row = col;
         }
 

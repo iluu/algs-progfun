@@ -5,11 +5,11 @@ import org.junit.Test;
 import java.util.Arrays;
 import java.util.HashSet;
 
-import static com.hackerrank.MasaAndStones.calculateLastStone;
+import static com.hackerrank.ManasaAndStones.calculateLastStone;
 import static org.hamcrest.core.IsEqual.equalTo;
 import static org.junit.Assert.assertThat;
 
-public class MasaAndStonesTest {
+public class ManasaAndStonesTest {
 
     @Test
     public void sampleTest1() {

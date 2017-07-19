@@ -65,10 +65,38 @@ Solutions to coding challenges from [Code Fights](www.codefights.com), [Codin Ga
 | 42. | [Jumping on the Clouds]            | [Java][JOTC Java]                           | Easy       |     20 |
 | 43. | [Equalize the Array]               | [Java][ETA Java]                            | Easy       |     20 |
 | 44. | [Taum and B'day]                   | [Java][TAB Java]                            | Easy       |     25 |
+| 45. | [Encryption]                       | [Java][E Java]                              | Medium     |     30 |
+| 46. | [Bigger is Greater]                | [Java][BIG Java]                            | Medium     |     35 |
+| 47. | [Minimum Distances]                | [Java][MD Java]                             | Medium     |     20 |
+| 48. | [The Time in Words]                | [Java][TTIW Java]                           | Medium     |     25 |
+| 49. | [Chocolate Feast]                  | [Java][CF Java]                             | Easy       |     25 |
+| 50. | [Cavity Map]                       | [Java][CM Java]                             | Easy       |     30 |
+| 51. | [Manasa and Stones]                | [Java][MAS Java]                            | Easy       |     30 |
+| 52. | [The Grid Search]                  | [Java][TGS Java]                            | Medium     |     30 |
+|     | **Strings**                        |                                             |            |        |
+| 53. | [Super Reduced String]             | [Java][SRS Java]                            | Easy       |     10 |
 |     |                                    |                                             |            |        |
 
 
 <!-- Links -->
+[Super Reduced String]:https://www.hackerrank.com/challenges/reduced-string
+[SRS Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/SuperReducedString.java
+[The Grid Search]:https://www.hackerrank.com/challenges/the-grid-search
+[TGS Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/TheGridSearch.java
+[Manasa and Stones]:https://www.hackerrank.com/challenges/manasa-and-stones
+[MAS Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/ManasaAndStones.java
+[Cavity Map]:https://www.hackerrank.com/challenges/cavity-map
+[CM Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/CavityMap.java
+[Chocolate Feast]:https://www.hackerrank.com/challenges/chocolate-feast
+[CF Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/ChocolateFeast.java
+[The Time in Words]:https://www.hackerrank.com/challenges/the-time-in-words
+[TTIW Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/TheTimeInWords.java
+[Minimum Distances]:https://www.hackerrank.com/challenges/minimum-distances
+[MD Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/MinimumDistances.java
+[Bigger is Greater]:https://www.hackerrank.com/challenges/bigger-is-greater
+[BIG Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/BiggerIsGreater.java
+[Encryption]:https://www.hackerrank.com/challenges/encryption/submissions
+[E Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/Encryption.java
 [Taum and B'day]:https://www.hackerrank.com/challenges/taum-and-bday
 [TAB Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/TaumAndBDay.java
 [Equalize the Array]:https://www.hackerrank.com/challenges/equality-in-a-array
