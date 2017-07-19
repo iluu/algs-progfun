@@ -61,10 +61,22 @@ Solutions to coding challenges from [Code Fights](www.codefights.com), [Codin Ga
 | 38. | [Sherlock and Squares]             | [Kotlin][ShAS Kotlin]                       | Easy       |     20 |
 | 39. | [Library Fine]                     | [Java][LF Java]                             | Easy       |     15 |
 | 40. | [Cut the Sticks]                   | [Java][CTS Java]                            | Easy       |     25 |
+| 41. | [Repeated String]                  | [Java][RS Java]                             | Easy       |     20 |
+| 42. | [Jumping on the Clouds]            | [Java][JOTC Java]                           | Easy       |     20 |
+| 43. | [Equalize the Array]               | [Java][ETA Java]                            | Easy       |     20 |
+| 44. | [Taum and B'day]                   | [Java][TAB Java]                            | Easy       |     25 |
 |     |                                    |                                             |            |        |
 
 
 <!-- Links -->
+[Taum and B'day]:https://www.hackerrank.com/challenges/taum-and-bday
+[TAB Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/TaumAndBDay.java
+[Equalize the Array]:https://www.hackerrank.com/challenges/equality-in-a-array
+[ETA Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/EqualityInArray.java
+[Jumping on the Clouds]:https://www.hackerrank.com/challenges/jumping-on-the-clouds
+[JOTC Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/JumpingOnTheClouds.java
+[Repeated String]:https://www.hackerrank.com/challenges/repeated-string
+[RS Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/RepeatedString.java
 [Cut the Sticks]:https://www.hackerrank.com/challenges/cut-the-sticks
 [CTS Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/CutTheSticks.java
 [Library Fine]:https://www.hackerrank.com/challenges/library-fine
