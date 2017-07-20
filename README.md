@@ -76,10 +76,13 @@ Solutions to coding challenges from [Code Fights](www.codefights.com), [Codin Ga
 |     | **Strings**                        |                                             |            |        |
 | 53. | [Super Reduced String]             | [Java][SRS Java]                            | Easy       |     10 |
 | 54. | [Camel Case]                       | [Java][CC Java]                             | Easy       |     15 |
+| 55. | [Mars Exploration]                 | [Java][ME Java]                             | Easy       |     15 |
 |     |                                    |                                             |            |        |
 
 
 <!-- Links -->
+[Mars Exploration]:https://www.hackerrank.com/challenges/mars-exploration
+[ME Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/MarsExploration.java
 [Camel Case]:https://www.hackerrank.com/challenges/camelcase
 [CC Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/CamelCase.java
 [Super Reduced String]:https://www.hackerrank.com/challenges/reduced-string
