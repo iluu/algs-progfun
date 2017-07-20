@@ -44,6 +44,4 @@ public class SherlockAndAnagrams {
         }
         return pattern;
     }
-
-
 }

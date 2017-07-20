@@ -36,6 +36,4 @@ public class SherlockAndTheValidStringTest {
     public void shouldAlsoBeValid() {
         assertThat(isValid("hfchdkkbfifgbgebfaahijchgeeeiagkadjfcbekbdaifchkjfejckbiiihegacfbchdihkgbkbddgaefhkdgccjejjaajgijdkd")).isEqualTo("YES");
     }
-
-
 }

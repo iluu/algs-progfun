@@ -80,9 +80,16 @@ Solutions to coding challenges from [Code Fights](www.codefights.com), [Codin Ga
 | 56. | [Pangrams]                         | [Java][P Java]                              | Easy       |     20 |
 | 57. | [Funny String]                     | [Java][FS Java]                             | Easy       |     25 |
 | 58. | [Alternating Characters]           | [Java][AC Java]                             | Easy       |     20 |
+| 59. | [Sherlock and the Valid String]    | [Java][SATVS Java]                          | Easy       |     35 |
+| 60. | [Sherlock and Anagrams]            | [Java][SAA Java]                            | Medium     |     50 |
+|     |                                    |                                             |            |        |
 
 
 <!-- Links -->
+[Sherlock and Anagrams]:https://www.hackerrank.com/challenges/sherlock-and-anagrams
+[SAA Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/SherlockAndAnagrams.java
+[Sherlock and the Valid String]:https://www.hackerrank.com/challenges/sherlock-and-valid-string
+[SATVS Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/SherlockAndTheValidString.java
 [Alternating Characters]:https://www.hackerrank.com/challenges/alternating-characters
 [AC Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/AlternatingCharacters.java
 [Funny String]:https://www.hackerrank.com/challenges/funny-string

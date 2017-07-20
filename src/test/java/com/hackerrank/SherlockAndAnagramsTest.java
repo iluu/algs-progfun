@@ -20,6 +20,5 @@ public class SherlockAndAnagramsTest {
     @Test
     public void simpleAnagrams1() {
         assertThat(countAnagrams("ifailuhkqq")).isEqualTo(3);
-
     }
 }
