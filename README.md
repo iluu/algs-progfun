@@ -79,10 +79,12 @@ Solutions to coding challenges from [Code Fights](www.codefights.com), [Codin Ga
 | 55. | [Mars Exploration]                 | [Java][ME Java]                             | Easy       |     15 |
 | 56. | [Pangrams]                         | [Java][P Java]                              | Easy       |     20 |
 | 57. | [Funny String]                     | [Java][FS Java]                             | Easy       |     25 |
-|     |                                    |                                             |            |        |
+| 58. | [Alternating Characters]           | [Java][AC Java]                             | Easy       |     20 |
 
 
 <!-- Links -->
+[Alternating Characters]:https://www.hackerrank.com/challenges/alternating-characters
+[AC Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/AlternatingCharacters.java
 [Funny String]:https://www.hackerrank.com/challenges/funny-string
 [FS Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/FunnyString.java
 [Pangrams]:https://www.hackerrank.com/challenges/pangrams
