@@ -75,10 +75,13 @@ Solutions to coding challenges from [Code Fights](www.codefights.com), [Codin Ga
 | 52. | [The Grid Search]                  | [Java][TGS Java]                            | Medium     |     30 |
 |     | **Strings**                        |                                             |            |        |
 | 53. | [Super Reduced String]             | [Java][SRS Java]                            | Easy       |     10 |
+| 54. | [Camel Case]                       | [Java][CC Java]                             | Easy       |     15 |
 |     |                                    |                                             |            |        |
 
 
 <!-- Links -->
+[Camel Case]:https://www.hackerrank.com/challenges/camelcase
+[CC Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/CamelCase.java
 [Super Reduced String]:https://www.hackerrank.com/challenges/reduced-string
 [SRS Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/SuperReducedString.java
 [The Grid Search]:https://www.hackerrank.com/challenges/the-grid-search
