@@ -77,10 +77,13 @@ Solutions to coding challenges from [Code Fights](www.codefights.com), [Codin Ga
 | 53. | [Super Reduced String]             | [Java][SRS Java]                            | Easy       |     10 |
 | 54. | [Camel Case]                       | [Java][CC Java]                             | Easy       |     15 |
 | 55. | [Mars Exploration]                 | [Java][ME Java]                             | Easy       |     15 |
+| 56. | [Pangrams]                         | [Java][P Java]                              | Easy       |     20 |
 |     |                                    |                                             |            |        |
 
 
 <!-- Links -->
+[Pangrams]:https://www.hackerrank.com/challenges/pangrams
+[P Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/Pangrams.java
 [Mars Exploration]:https://www.hackerrank.com/challenges/mars-exploration
 [ME Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/MarsExploration.java
 [Camel Case]:https://www.hackerrank.com/challenges/camelcase
