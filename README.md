@@ -78,10 +78,13 @@ Solutions to coding challenges from [Code Fights](www.codefights.com), [Codin Ga
 | 54. | [Camel Case]                       | [Java][CC Java]                             | Easy       |     15 |
 | 55. | [Mars Exploration]                 | [Java][ME Java]                             | Easy       |     15 |
 | 56. | [Pangrams]                         | [Java][P Java]                              | Easy       |     20 |
+| 57. | [Funny String]                     | [Java][FS Java]                             | Easy       |     25 |
 |     |                                    |                                             |            |        |
 
 
 <!-- Links -->
+[Funny String]:https://www.hackerrank.com/challenges/funny-string
+[FS Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/FunnyString.java
 [Pangrams]:https://www.hackerrank.com/challenges/pangrams
 [P Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/Pangrams.java
 [Mars Exploration]:https://www.hackerrank.com/challenges/mars-exploration
