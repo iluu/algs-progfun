@@ -82,10 +82,23 @@ Solutions to coding challenges from [Code Fights](www.codefights.com), [Codin Ga
 | 58. | [Alternating Characters]           | [Java][AC Java]                             | Easy       |     20 |
 | 59. | [Sherlock and the Valid String]    | [Java][SATVS Java]                          | Easy       |     35 |
 | 60. | [Sherlock and Anagrams]            | [Java][SAA Java]                            | Medium     |     50 |
+|     | **Sorting**                        |                                             |            |        |
+| 61. | [Big Sorting]                      | [Java][BS Java]                             | Easy       |     20 |
+| 62. | [Intro to Tutorial Challenges]     | [Java][ITTC Java]                           | Easy       |     30 |
+| 63. | [Insertion Sort - Part 1]          | [Java][ISP1 Java]                           | Easy       |     30 |
+| 64. | [Insertion Sort - Part 2]          | [Java][ISP2 Java]                           | Easy       |     30 |
 |     |                                    |                                             |            |        |
 
 
 <!-- Links -->
+[Insertion Sort - Part 2]:https://www.hackerrank.com/challenges/insertionsort2
+[ISP2 Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/InsertionSortPart2.java
+[Insertion Sort - Part 1]:https://www.hackerrank.com/challenges/insertionsort1
+[ISP1 Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/InsertionSortPart1.java
+[Intro to Tutorial Challenges]:https://www.hackerrank.com/challenges/tutorial-intro
+[ITTC Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/IntroToTutorialChallenges.java
+[Big Sorting]:https://www.hackerrank.com/challenges/big-sorting
+[BS Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/BigSorting.java
 [Sherlock and Anagrams]:https://www.hackerrank.com/challenges/sherlock-and-anagrams
 [SAA Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/SherlockAndAnagrams.java
 [Sherlock and the Valid String]:https://www.hackerrank.com/challenges/sherlock-and-valid-string
