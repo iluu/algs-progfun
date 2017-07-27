@@ -5,29 +5,21 @@ import java.util.Scanner;
 public class SherlockAndTheBeast {
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int cases = scanner.nextInt();
-        for (int i = 0; i < cases; i++) {
-            System.out.println(findLargestDecentNumber(scanner.nextInt()));
+        Scanner in = new Scanner(System.in);
+        int t = in.nextInt();
+        for (int a0 = 0; a0 < t; a0++) {
+            System.out.println(findLargestDecentNumber(in.nextInt()));
         }
     }
 
-    static String findLargestDecentNumber(int input) {
-        int temp = input;
-        String result = "";
-        while (temp > 0) {
-            if (temp / 3 > 0) {
-                int d = (temp / 3) * 3;
-                result += new String(new char[d]).replace("\0", "5");
-                temp = temp - d;
-            } else if (temp / 5 > 0) {
-                int d = (temp / 5) * 5;
-                result += new String(new char[d]).replace("\0", "3");
-                temp = temp - d;
-            } else {
-                return "-1";
+    static String findLargestDecentNumber(int digits) {
+        for (int i = digits / 3; i >= 0; i--) {
+            if ((digits - 3 * i) % 5 == 0) {
+                String result = new String(new char[3 * i]).replace("\0", "5");
+                result += new String(new char[digits - 3 * i]).replace("\0", "3");
+                return result;
             }
         }
-        return result;
+        return "-1";
     }
 }

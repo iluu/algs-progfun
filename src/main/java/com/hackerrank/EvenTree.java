@@ -14,11 +14,11 @@ public class EvenTree {
         int n;
         List<Node> c = new ArrayList<>();
 
-        Node(int v){
+        Node(int v) {
             this.n = v;
         }
 
-        void addChild(Node node){
+        void addChild(Node node) {
             c.add(node);
         }
 
@@ -36,7 +36,7 @@ public class EvenTree {
     }
 
     private static Scanner getScanner() throws FileNotFoundException {
-        if (READ_FILE){
+        if (READ_FILE) {
             File f = new File("inputs/even-tree.txt");
             return new Scanner(new FileInputStream(f));
         }
@@ -48,16 +48,16 @@ public class EvenTree {
         int nodes = in.nextInt();
         int edges = in.nextInt();
 
-        Node[] allNodes = new Node[nodes+1];
-        for(int i = 0; i < edges; i++){
+        Node[] allNodes = new Node[nodes + 1];
+        for (int i = 0; i < edges; i++) {
             int n1 = in.nextInt();
             int n2 = in.nextInt();
-            if (allNodes[n1] == null){
+            if (allNodes[n1] == null) {
                 Node n = new Node(n1);
                 allNodes[n1] = n;
             }
 
-            if (allNodes[n2] == null){
+            if (allNodes[n2] == null) {
                 Node n = new Node(n2);
                 allNodes[n2] = n;
             }
@@ -66,7 +66,7 @@ public class EvenTree {
         }
 
         int maxRemoved = 0;
-        for (int j = 1 ; j < allNodes.length; j ++) {
+        for (int j = 1; j < allNodes.length; j++) {
             for (int i = 0; i < allNodes[j].c.size(); i++) {
                 if ((allNodes[j].c.get(i).countVertices() + 1) % 2 == 0) {
                     maxRemoved++;

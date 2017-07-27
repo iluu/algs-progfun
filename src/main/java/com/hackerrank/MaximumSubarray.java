@@ -8,12 +8,6 @@ import java.util.Scanner;
 public class MaximumSubarray {
 
     public static void main(String[] args) throws FileNotFoundException {
-
-        fromFile();
-        //System.out.println(findAnswer(new long[]{1, -1, -1, -1, -1, 5}));
-    }
-
-    private static void fromFile() throws FileNotFoundException {
         File f = new File("maximum-subarray.txt");
         System.out.println(f.getAbsolutePath());
 
