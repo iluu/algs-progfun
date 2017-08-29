@@ -1,10 +1,6 @@
 # Algorithms Programming Fun
 
-Solutions to coding challenges from [Codin Game](www.codingame.com), 
-[Hacker Earth](www.hackerearth.com), [Hacker Rank](www.hackerrank.com) and other
-
-## Codin Game
-![CodinGame Solutions] ![CodinGame Languages]
+Solutions to coding challenges from [Hacker Earth](www.hackerearth.com) and [Hacker Rank](www.hackerrank.com).
 
 ## Hacker Earth
 ![HackerEarth Solutions] ![HackerEarth Languages]
