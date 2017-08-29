@@ -3,10 +3,23 @@
 Solutions to coding challenges from [Hacker Earth](www.hackerearth.com) and [Hacker Rank](www.hackerrank.com).
 
 ## Hacker Earth
-![HackerEarth Solutions] ![HackerEarth Languages]
+![HackerEarth Solutions](https://img.shields.io/badge/Problems%20Solved-1-green.svg) 
+![HackerEarth Languages](https://img.shields.io/badge/Languages-java-yellow.svg)
+
+### Algorithms
+
+|  # | Problem                     | Solutions          | Difficulty |
+|----|-----------------------------|--------------------|------------|
+|    | **Graphs**                  |                    |            |
+| 1. | [Monk at the Graph Factory] | [Java][MATGF Java] | Easy       |
+|    |                             |                    |            |
+
+[Monk at the Graph Factory]:https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/monk-at-the-graph-factory
+[MATGF Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerearth/algorithms/graphs/representation/MonkAtTheGraphFactory.java
 
 ## Hacker Rank
-![HackerRank Solutions] ![HackerRank Languages]
+![HackerRank Solutions](https://img.shields.io/badge/Problems%20Solved-74-green.svg) 
+![HackerRank Languages](https://img.shields.io/badge/Languages-haskell/java/kotlin/scala-yellow.svg)
 
 ### Algorithms
 
@@ -250,17 +263,3 @@ Solutions to coding challenges from [Hacker Earth](www.hackerearth.com) and [Hac
 [Solve Me First]:https://www.hackerrank.com/challenges/solve-me-first
 [Solve Me First Kotlin]:https://github.com/iluu/algs-progfun/blob/master/src/main/kotlin/com/hackerrank/SolveMeFirst.kt
 [Simple Array Sum]:https://www.hackerrank.com/challenges/simple-array-sum
-
-
-<!-- Images -->
-[CodeFights Solutions]:https://img.shields.io/badge/Problems%20Solved-17-green.svg
-[CodeFights Languages]:https://img.shields.io/badge/Languages-java-yellow.svg
-
-[CodinGame Solutions]:https://img.shields.io/badge/Problems%20Solved-13-green.svg
-[CodinGame Languages]:https://img.shields.io/badge/Languages-java-yellow.svg
-
-[HackerEarth Solutions]:https://img.shields.io/badge/Problems%20Solved-1-green.svg
-[HackerEarth Languages]:https://img.shields.io/badge/Languages-java-yellow.svg
-
-[HackerRank Solutions]:https://img.shields.io/badge/Problems%20Solved-74-green.svg
-[HackerRank Languages]:https://img.shields.io/badge/Languages-haskell/java/kotlin/scala-yellow.svg
