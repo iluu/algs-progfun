@@ -2,23 +2,8 @@
 
 Solutions to coding challenges from [Hacker Earth](www.hackerearth.com) and [Hacker Rank](www.hackerrank.com).
 
-## Hacker Earth
-![HackerEarth Solutions](https://img.shields.io/badge/Problems%20Solved-1-green.svg) 
-![HackerEarth Languages](https://img.shields.io/badge/Languages-java-yellow.svg)
-
-### Algorithms
-
-|  # | Problem                     | Solutions          | Difficulty |
-|----|-----------------------------|--------------------|------------|
-|    | **Graphs**                  |                    |            |
-| 1. | [Monk at the Graph Factory] | [Java][MATGF Java] | Easy       |
-|    |                             |                    |            |
-
-[Monk at the Graph Factory]:https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/monk-at-the-graph-factory
-[MATGF Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerearth/algorithms/graphs/representation/MonkAtTheGraphFactory.java
-
 ## Hacker Rank
-![HackerRank Solutions](https://img.shields.io/badge/Problems%20Solved-74-green.svg) 
+![HackerRank Solutions](https://img.shields.io/badge/Problems%20Solved-75-green.svg) 
 ![HackerRank Languages](https://img.shields.io/badge/Languages-haskell/java/kotlin/scala-yellow.svg)
 
 ### Algorithms
@@ -103,11 +88,12 @@ Solutions to coding challenges from [Hacker Earth](www.hackerearth.com) and [Hac
 | 70. | [Even Tree]                            | [Java][EV Java]                             | Medium     |     50 |
 |     | **Greedy**                             |                                             |            |        |
 | 71. | [SherlockAndTheBeast]                  | [Java][SATB Java]                           | Easy       |     30 |
+| 72. | [LuckBalance]                          | [Java][LB Java]                             | Easy       |     20 |
 |     | **Dynamic Programming**                |                                             |            |        |
-| 72. | [Fibonacci Modified]                   | [Java][FM Java]                             | Medium     |     45 |
-| 73. | [The Maximum Subarray]                 | [Java][TMS Java]                            | Medium     |     50 |
+| 73. | [Fibonacci Modified]                   | [Java][FM Java]                             | Medium     |     45 |
+| 74. | [The Maximum Subarray]                 | [Java][TMS Java]                            | Medium     |     50 |
 |     | **Bit Manipulation**                   |                                             |            |        |
-| 74. | [Lonely Integer]                       | [Java][LI Java]                             | Easy       |     20 |
+| 75. | [Lonely Integer]                       | [Java][LI Java]                             | Easy       |     20 |
 
 
 <!-- Links -->
@@ -117,10 +103,12 @@ Solutions to coding challenges from [Hacker Earth](www.hackerearth.com) and [Hac
 [TMS Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/MaximumSubarray.java
 [Fibonacci Modified]:https://www.hackerrank.com/challenges/fibonacci-modified
 [FM Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/FibonacciModified.java
-[Even Tree]:https://www.hackerrank.com/challenges/even-tree
-[EV Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/EvenTree.java
+[LuckBalance]:https://www.hackerrank.com/challenges/luck-balance
+[LB Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/LuckBalance.java
 [SherlockAndTheBeast]:https://www.hackerrank.com/challenges/sherlock-and-the-beast
 [SATB Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/SherlockAndTheBeast.java
+[Even Tree]:https://www.hackerrank.com/challenges/even-tree
+[EV Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/EvenTree.java
 [Breadth First Search: Shortest Reach]:https://www.hackerrank.com/challenges/bfsshortreach
 [BFSSR Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/BreadthFirstSearchShortestReach.java
 [Connected Cells in a Grid]:https://www.hackerrank.com/challenges/connected-cell-in-a-grid
@@ -263,3 +251,19 @@ Solutions to coding challenges from [Hacker Earth](www.hackerearth.com) and [Hac
 [Solve Me First]:https://www.hackerrank.com/challenges/solve-me-first
 [Solve Me First Kotlin]:https://github.com/iluu/algs-progfun/blob/master/src/main/kotlin/com/hackerrank/SolveMeFirst.kt
 [Simple Array Sum]:https://www.hackerrank.com/challenges/simple-array-sum
+
+## Hacker Earth
+![HackerEarth Solutions](https://img.shields.io/badge/Problems%20Solved-1-green.svg) 
+![HackerEarth Languages](https://img.shields.io/badge/Languages-java-yellow.svg)
+
+### Algorithms
+
+|  # | Problem                     | Solutions          | Difficulty |
+|----|-----------------------------|--------------------|------------|
+|    | **Graphs**                  |                    |            |
+| 1. | [Monk at the Graph Factory] | [Java][MATGF Java] | Easy       |
+|    |                             |                    |            |
+
+[Monk at the Graph Factory]:https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/practice-problems/algorithm/monk-at-the-graph-factory
+[MATGF Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerearth/algorithms/graphs/representation/MonkAtTheGraphFactory.java
+
