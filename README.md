@@ -1,9 +1,9 @@
 # Algorithms Programming Fun
 
-Solutions to coding challenges from [Hacker Earth](www.hackerearth.com) and [Hacker Rank](www.hackerrank.com).
+Solutions to coding challenges from [Hacker Rank](www.hackerrank.com) and [Hacker Earth](www.hackerearth.com).
 
 ## Hacker Rank
-![HackerRank Solutions](https://img.shields.io/badge/Problems%20Solved-75-green.svg) 
+![HackerRank Solutions](https://img.shields.io/badge/Problems%20Solved-76-green.svg) 
 ![HackerRank Languages](https://img.shields.io/badge/Languages-haskell/java/kotlin/scala-yellow.svg)
 
 ### Algorithms
@@ -87,13 +87,14 @@ Solutions to coding challenges from [Hacker Earth](www.hackerearth.com) and [Hac
 | 69. | [Breadth First Search: Shortest Reach] | [Java][BFSSR Java]                          | Medium     |     55 |
 | 70. | [Even Tree]                            | [Java][EV Java]                             | Medium     |     50 |
 |     | **Greedy**                             |                                             |            |        |
-| 71. | [SherlockAndTheBeast]                  | [Java][SATB Java]                           | Easy       |     30 |
-| 72. | [LuckBalance]                          | [Java][LB Java]                             | Easy       |     20 |
+| 71. | [LuckBalance]                          | [Java][LB Java]                             | Easy       |     20 |
+| 72. | [BeautifulPairs]                       | [Java][BP Java]                             | Easy       |     30 |
+| 73. | [SherlockAndTheBeast]                  | [Java][SATB Java]                           | Easy       |     30 |
 |     | **Dynamic Programming**                |                                             |            |        |
-| 73. | [Fibonacci Modified]                   | [Java][FM Java]                             | Medium     |     45 |
-| 74. | [The Maximum Subarray]                 | [Java][TMS Java]                            | Medium     |     50 |
+| 74. | [Fibonacci Modified]                   | [Java][FM Java]                             | Medium     |     45 |
+| 75. | [The Maximum Subarray]                 | [Java][TMS Java]                            | Medium     |     50 |
 |     | **Bit Manipulation**                   |                                             |            |        |
-| 75. | [Lonely Integer]                       | [Java][LI Java]                             | Easy       |     20 |
+| 76. | [Lonely Integer]                       | [Java][LI Java]                             | Easy       |     20 |
 
 
 <!-- Links -->
@@ -105,6 +106,8 @@ Solutions to coding challenges from [Hacker Earth](www.hackerearth.com) and [Hac
 [FM Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/FibonacciModified.java
 [LuckBalance]:https://www.hackerrank.com/challenges/luck-balance
 [LB Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/LuckBalance.java
+[BeautifulPairs]:https://www.hackerrank.com/challenges/beautiful-pairs
+[BP Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/BeautifulPairs.java
 [SherlockAndTheBeast]:https://www.hackerrank.com/challenges/sherlock-and-the-beast
 [SATB Java]:https://github.com/iluu/algs-progfun/blob/master/src/main/java/com/hackerrank/SherlockAndTheBeast.java
 [Even Tree]:https://www.hackerrank.com/challenges/even-tree
