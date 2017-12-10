@@ -257,7 +257,7 @@ Solutions to coding challenges from [Hacker Rank](http://www.hackerrank.com) and
 
 
 ### Functional Programming
-![HackerRank Solutions](https://img.shields.io/badge/Problems%20Solved-6-green.svg) 
+![HackerRank Solutions](https://img.shields.io/badge/Problems%20Solved-7-green.svg) 
 ![HackerRank Languages](https://img.shields.io/badge/Languages-haskell/scala-yellow.svg)
 
 
@@ -270,9 +270,12 @@ Solutions to coding challenges from [Hacker Rank](http://www.hackerrank.com) and
 | 4. | [Array Of N Elements]        | [Scala][AONE Scala]     | Easy       |     10 |
 | 5. | [Reverse a List]             | [Scala][RaL Scala]      | Easy       |     10 |
 | 6. | [Sum of Odd Elements]        | [Haskell][SoOE Haskell] | Easy       |     10 |
+| 7. | [List Length]                | [Haskell][LL Haskell]   | Easy       |     10 |
 |    |                              |                         |            |        |
 
-[Sum of Odd Elements]:https://www.hackerrank.com/challenges/fp-sum-of-odd-elements/problem
+[List Length]:https://www.hackerrank.com/challenges/fp-list-length
+[LL Haskell]:https://github.com/iluu/algs-progfun/blob/master/src/main/haskell/ListLength.hs
+[Sum of Odd Elements]:https://www.hackerrank.com/challenges/fp-sum-of-odd-elements
 [SoOE Haskell]:https://github.com/iluu/algs-progfun/blob/master/src/main/haskell/SumOfOddElements.hs
 [Reverse a List]:https://www.hackerrank.com/challenges/fp-reverse-a-list
 [RaL Scala]:https://github.com/iluu/algs-progfun/blob/master/src/main/scala/com/hackerrank/ReverseAList.scala
