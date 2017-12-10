@@ -1,12 +1,12 @@
 # Algorithms Programming Fun
 
-Solutions to coding challenges from [Hacker Rank](www.hackerrank.com) and [Hacker Earth](www.hackerearth.com).
+Solutions to coding challenges from [Hacker Rank](http://www.hackerrank.com) and [Hacker Earth](http://www.hackerearth.com).
 
 ## Hacker Rank
-![HackerRank Solutions](https://img.shields.io/badge/Problems%20Solved-76-green.svg) 
-![HackerRank Languages](https://img.shields.io/badge/Languages-haskell/java/kotlin/scala-yellow.svg)
 
 ### Algorithms
+![HackerRank Solutions](https://img.shields.io/badge/Problems%20Solved-76-green.svg) 
+![HackerRank Languages](https://img.shields.io/badge/Languages-haskell/java/kotlin/scala-yellow.svg)
 
 |   # | Problem                                | Solutions                                   | Difficulty | Points |
 |-----|----------------------------------------|---------------------------------------------|------------|--------|
@@ -254,6 +254,37 @@ Solutions to coding challenges from [Hacker Rank](www.hackerrank.com) and [Hacke
 [Solve Me First]:https://www.hackerrank.com/challenges/solve-me-first
 [Solve Me First Kotlin]:https://github.com/iluu/algs-progfun/blob/master/src/main/kotlin/com/hackerrank/SolveMeFirst.kt
 [Simple Array Sum]:https://www.hackerrank.com/challenges/simple-array-sum
+
+
+### Functional Programming
+![HackerRank Solutions](https://img.shields.io/badge/Problems%20Solved-6-green.svg) 
+![HackerRank Languages](https://img.shields.io/badge/Languages-haskell/scala-yellow.svg)
+
+
+|  # | Problem                      | Solution                | Difficulty | Points |
+|----|------------------------------|-------------------------|------------|--------|
+|    | **Introduction**             |                         |            |        |
+| 1. | [List Replication]           | [Scala][LR Scala]       | Easy       |     10 |
+| 2. | [Filter Array]               | [Scala][FA Scala]       | Easy       |     10 |
+| 3. | [Filter Positions in a List] | [Scala][FPiaL Scala]    | Easy       |     10 |
+| 4. | [Array Of N Elements]        | [Scala][AONE Scala]     | Easy       |     10 |
+| 5. | [Reverse a List]             | [Scala][RaL Scala]      | Easy       |     10 |
+| 6. | [Sum of Odd Elements]        | [Haskell][SoOE Haskell] | Easy       |     10 |
+|    |                              |                         |            |        |
+
+[Sum of Odd Elements]:https://www.hackerrank.com/challenges/fp-sum-of-odd-elements/problem
+[SoOE Haskell]:https://github.com/iluu/algs-progfun/blob/master/src/main/haskell/SumOfOddElements.hs
+[Reverse a List]:https://www.hackerrank.com/challenges/fp-reverse-a-list
+[RaL Scala]:https://github.com/iluu/algs-progfun/blob/master/src/main/scala/com/hackerrank/ReverseAList.scala
+[Array Of N Elements]:https://www.hackerrank.com/challenges/fp-array-of-n-elements
+[AONE Scala]:https://github.com/iluu/algs-progfun/blob/master/src/main/scala/com/hackerrank/ArrayOfN.scala
+[Filter Positions in a List]:https://www.hackerrank.com/challenges/fp-filter-positions-in-a-list
+[FPiaL Scala]:https://github.com/iluu/algs-progfun/blob/master/src/main/scala/com/hackerrank/FilterByPosition.scala
+[Filter Array]:https://www.hackerrank.com/challenges/fp-filter-array
+[FA Scala]:https://github.com/iluu/algs-progfun/blob/master/src/main/scala/com/hackerrank/FilterArray.scala
+[List Replication]:https://www.hackerrank.com/challenges/fp-list-replication
+[LR Scala]:https://github.com/iluu/algs-progfun/blob/master/src/main/scala/com/hackerrank/ListReplication.scala
+
 
 ## Hacker Earth
 ![HackerEarth Solutions](https://img.shields.io/badge/Problems%20Solved-1-green.svg) 
